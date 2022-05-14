@@ -48,7 +48,7 @@ A continuacion, debe crear un archivo con el nombre in.txt, el cual tiene la fun
 #### IMPORTANTE: recuerde guardar el archivo (Ctrl + s) cada vez que haga algun cambio en los datos a ingresar.
 
 ### paso 4:
-
+Copiar el contenido del archivo 
 
 
 ### paso 4 (para "crea tu propio ejemplo"):
