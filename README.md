@@ -1,4 +1,5 @@
 # Post-grado-Campus-Dijkstra
+###### By EquipoDinamita!!!
 Bienvenido a este repositorio!! creado con el objetivo de encontrar el camino mas rapido desde el postrgado de la UPB en obrajes, hasta el campus ubicado en achocalla.
 
 ## Definición del problema
