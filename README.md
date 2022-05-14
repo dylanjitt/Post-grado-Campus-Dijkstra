@@ -1,5 +1,5 @@
 # Post-grado-Campus-Dijkstra
-este repositorio fue creado con la idea de encontrar el camino, las calles y los transportes mas rapidos, desde el postrgado de la UPB en obrajes, hasta el campus de la misma ubicado en achocalla
+este repositorio fue creado con la idea de encontrar el camino, las calles y los transportes mas rapidos, desde el postrgado de la UPB en obrajes, hasta el campus ubicado en achocalla
 
 ## Definicion del problema
 
@@ -32,4 +32,25 @@ Para entender mejor el sistema empleado en nuestra matriz, aqui les dejamos unos
 -8: Rotonda / Puente amor de Dios
 -9: Universidad Pirvada Boliviana (UPB)
 
-## Proceso de instalacion
+## Proceso de instalación
+### paso 1:
+Descargue su IDE o editor de codigo favorito, en este caso, nosotros utilizamos Visual Studio Code (VScode), el cual puede descargar desde la MIcrosoft Store, o desde el siguiente link: https://code.visualstudio.com/
+
+### paso 2:
+Asegurese de que su editor de codigo ejecute las instrucciones en el lenguaje "c++" de manera correcta, en este caso, recomendamos un video que ayudara a la configuracion de Visual Studio Code, para la ejecucion completa de todo lo que ofrece c++: https://www.youtube.com/watch?v=FQOqTvE_L00
+
+### paso 3:
+recuerde crear una carpeta especifica para este proyecto, luego, agreguela en el directorio de VScode:
+
+//insertar imagen de add folder.
+
+A continuacion, debe crear un archivo con el nombre in.txt, el cual tiene la funcion de añadir los comandos necesarios (en forma de numeros enteros) para que el programa lea los datos ingresados, y realize las acciones de su preferencia.
+#### IMPORTANTE: recuerde guardar el archivo (Ctrl + s) cada vez que haga algun cambio en los datos a ingresar.
+
+### paso 4:
+
+
+
+### paso 4 (para "crea tu propio ejemplo"):
+Dirijase al codigo
+
