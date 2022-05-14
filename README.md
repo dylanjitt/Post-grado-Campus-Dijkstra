@@ -1,13 +1,13 @@
 # Post-grado-Campus-Dijkstra
 Bienvenido a este repositorio!! creado con el objetivo de encontrar el camino mas rapido desde el postrgado de la UPB en obrajes, hasta el campus ubicado en achocalla.
 
-## Definicion del problema
+## Definición del problema
 
 Eres estudiante de la UPB, y te asignaron pasar materias en Post grado y en el Campus a la vez???, y necesitas llegar al campus desde obrajes de la manera mas rapida posible?? No te preocupes!!! nosotros tenemos la Solución.
 
 Presentamos "Post Grado-Campus Dijkstra", un algoritmo que se encarga de analizar y hallar el tiempo mas corto para llegar a la universidad a tiempo, e incluso, tambien funciona para otros puntos cercanos, desde la calle de la cato, hasta la plaza humboldt (la plaza favorita de los de la UPB).
 
-## Explicacion del algoritmo
+## Explicación del algoritmo
 Este sistema utiliza el algoritmo dijkstra, el cual fue diseñado con el objetivo de encontrar el camino mas corto entre varios nodos, partiendo de uno en especifico, y llegando a un nodo final, recorriendo todas las posibilidades, hasta dar con las opciones mas cortas, o con menor costo o "peso".
 El algoritmo Dijkstra puede ser representado generalmente en dos sistemas:
 
@@ -58,3 +58,4 @@ Dirijase al codigo, y busque la linea 6, encontrara unos valores con las conexio
 #### cambie los valores de los puntos a su gusto, de ser necesario, vea la tabla de referencia.
 ###### *recomendamos no dejar ningun valor en 0.
 
+## Conclusión
