@@ -1,5 +1,5 @@
 # Post-grado-Campus-Dijkstra
-este repositorio fue creado con la idea de encontrar el camino, las calles y los transportes mas rapidos, desde el postrgado de la UPB en obrajes, hasta el campus ubicado en achocalla
+Bienvenido a este repositorio!! creado con el objetivo de encontrar el camino mas rapido desde el postrgado de la UPB en obrajes, hasta el campus ubicado en achocalla.
 
 ## Definicion del problema
 
@@ -21,16 +21,16 @@ Adaptamos este algoritmo en funcion del siguiente mapa:
 //insert mapa nodos
 
 Para entender mejor el sistema empleado en nuestra matriz, aqui les dejamos unos puntos de referencia en base al numero asignado para cada nodo:
--0: Post Grado
--1: Av. 14 de septiembre (la calle de la universida Catolica)
--2: Av. Hernando Siles
--3: Av. Hector Ormachea
--4: calle Costanerita
--5: calle 17 de obrajes
--6: Interseccion Costanera
--7: Plaza Hubmoldt
--8: Rotonda / Puente amor de Dios
--9: Universidad Pirvada Boliviana (UPB)
+  0: Post Grado
+  1: Av. 14 de septiembre (la calle de la universida Catolica)
+  2: Av. Hernando Siles
+  3: Av. Hector Ormachea
+  4: calle Costanerita
+  5: calle 17 de obrajes
+  6: Interseccion Costanera
+  7: Plaza Hubmoldt
+  8: Rotonda / Puente amor de Dios
+  9: Universidad Pirvada Boliviana (UPB)
 
 ## Proceso de instalación
 ### paso 1:
@@ -48,9 +48,13 @@ A continuacion, debe crear un archivo con el nombre in.txt, el cual tiene la fun
 #### IMPORTANTE: recuerde guardar el archivo (Ctrl + s) cada vez que haga algun cambio en los datos a ingresar.
 
 ### paso 4:
-Copiar el contenido del archivo 
+Copiar el contenido del archivo postGradoCampusDijkstra.cpp, y pegarlo en un nuevo archivo ".cpp" de VScode, a coninuacion guardar el archivo en la carpeta designada.
+una vez tenga listo su input deseado, presione el boton de "Play" en el programa. 
+En la seccion de abajo aparecera una barra de terminal, seleccione la opción "OUTPUT", encontrara la interfaz con todas las opciones propuestas, seleccione la que usted elija insertando su numero en el archivo "int.txt", para insertar mas de una opción, presiones enter y el nuevo numero cada vez que necesite.
 
 
-### paso 4 (para "crea tu propio ejemplo"):
-Dirijase al codigo
+### paso 5 (para "crea tu propio ejemplo"):
+Dirijase al codigo, y busque la linea 6, encontrara unos valores con las conexiones entre los puntos propuestos (por ejemplo PostGradoCalleCato), los cuales estan con valor 0 por defecto.
+#### cambie los valores de los puntos a su gusto, de ser necesario, vea la tabla de referencia.
+###### *recomendamos no dejar ningun valor en 0.
 
