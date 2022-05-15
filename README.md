@@ -1,12 +1,14 @@
 # Post-grado-Campus-Dijkstra
 ###### By EquipoDinamita!!!
 Bienvenido a este repositorio!! creado con el objetivo de encontrar el camino mas rapido desde el postrgado de la UPB en obrajes, hasta el campus ubicado en achocalla.
+![Captura de pantalla 2022-05-15 141254](https://user-images.githubusercontent.com/101950765/168487840-f8a05ceb-5982-4677-aea6-1294d77fc1b1.png)
 
 ## Definición del problema
 
 Eres estudiante de la UPB, y te asignaron pasar materias en Post grado y en el Campus a la vez???, y necesitas llegar al campus desde obrajes de la manera mas rapida posible?? No te preocupes!!! nosotros tenemos la Solución.
 
 Presentamos "Post Grado-Campus Dijkstra", un algoritmo que se encarga de analizar y hallar el tiempo mas corto para llegar a la universidad a tiempo, e incluso, tambien funciona para otros puntos cercanos, desde la calle de la cato, hasta la plaza humboldt (la plaza favorita de los de la UPB).
+![Captura de pantalla 2022-05-15 141335](https://user-images.githubusercontent.com/101950765/168487841-109d3211-e0e0-4049-818f-0d4c018ec47d.png)
 
 ## Explicación del algoritmo
 Este sistema utiliza el algoritmo dijkstra, el cual fue diseñado con el objetivo de encontrar el camino mas corto entre varios nodos, partiendo de uno en especifico, y llegando a un nodo final, recorriendo todas las posibilidades, hasta dar con las opciones mas cortas, o con menor costo o "peso".
@@ -36,6 +38,7 @@ Para entender mejor el sistema empleado en nuestra matriz, aqui les dejamos unos
 ## Proceso de instalación
 ### paso 1:
 Descargue su IDE o editor de codigo favorito, en este caso, nosotros utilizamos Visual Studio Code (VScode), el cual puede descargar desde la MIcrosoft Store, o desde el siguiente link: https://code.visualstudio.com/
+![Captura de pantalla 2022-05-15 141614](https://user-images.githubusercontent.com/101950765/168487844-19aecaca-086d-4b1d-bf97-6b59bcbb6587.png)
 
 ### paso 2:
 Asegurese de que su editor de codigo ejecute las instrucciones en el lenguaje "c++" de manera correcta, en este caso, recomendamos un video que ayudara a la configuracion de Visual Studio Code, para la ejecucion completa de todo lo que ofrece c++: https://www.youtube.com/watch?v=FQOqTvE_L00
