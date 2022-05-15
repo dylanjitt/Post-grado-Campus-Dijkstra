@@ -21,7 +21,7 @@ El algoritmo Dijkstra puede ser representado generalmente en dos sistemas:
 
 #### -la matriz
 
-Para este programa utilizaremos el sistema de matrices, en el que, cada casilla coincide con dos nodos, a la cual se le asigna un valor con numeros enteros (int), por lo que, si un punto "A" no esta conectado al punto "B", su valor será 0, y tambien en el caso de que el punto coincida consigo mismo. Se deben insertar valores en las casillas que tengan nodos conectados con otros.
+Para este programa utilizaremos el sistema de matrices, en el que cada casilla coincide con dos nodos, a la cual se le asigna un valor con numeros enteros (int), por lo que, si un punto "A" no esta conectado al punto "B", su valor será 0, y tambien en el caso de que el punto coincida consigo mismo. Se deben insertar valores en las casillas que tengan nodos conectados con otros.
 
 Adaptamos este algoritmo en funcion del siguiente mapa:
 
@@ -31,7 +31,7 @@ Para entender mejor el sistema empleado en nuestra matriz, aqui les dejamos unos
 
   #### 0: Post Grado
   
-  #### 1: Av. 14 de septiembre (la calle de la universida Catolica)
+  #### 1: Av. 14 de septiembre (la calle de la universidad Catolica)
   
   #### 2: Av. Hernando Siles
   
