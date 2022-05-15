@@ -15,6 +15,7 @@ Este sistema utiliza el algoritmo dijkstra, el cual fue diseñado con el objetiv
 El algoritmo Dijkstra puede ser representado generalmente en dos sistemas:
 
 -la lista de listas
+
 -la matriz
 
 para este programa utilizaremos el sistema de matrices, en el que, cada casilla coincide con dos nodos, a la cual se le asigna un valor con numeros enteros (int), por lo que, si un punto "A" no esta conectado al punto "B", su valor será 0, y tambien en el caso de que el punto coincida consigo mismo. Se deben insertar valores en las casillas que tengan nodos conectados con otros.
@@ -24,16 +25,27 @@ Adaptamos este algoritmo en funcion del siguiente mapa:
 //insert mapa nodos
 
 Para entender mejor el sistema empleado en nuestra matriz, aqui les dejamos unos puntos de referencia en base al numero asignado para cada nodo:
+
   0: Post Grado
+  
   1: Av. 14 de septiembre (la calle de la universida Catolica)
+  
   2: Av. Hernando Siles
+  
   3: Av. Hector Ormachea
+  
   4: calle Costanerita
+  
   5: calle 17 de obrajes
+  
   6: Interseccion Costanera
+  
   7: Plaza Hubmoldt
+  
   8: Rotonda / Puente amor de Dios
+  
   9: Universidad Pirvada Boliviana (UPB)
+  
 
 ## Proceso de instalación
 ### paso 1:
