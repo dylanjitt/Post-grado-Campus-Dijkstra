@@ -47,7 +47,7 @@ Para entender mejor el sistema empleado en nuestra matriz, aqui les dejamos unos
   
   #### 8: Rotonda / Puente amor de Dios
   
-  #### 9: Universidad Pirvada Boliviana (UPB)
+  #### 9: Universidad Privada Boliviana (UPB)
   
 
 ## Proceso de instalación
