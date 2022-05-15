@@ -74,9 +74,7 @@ A continuacion, debe crear un archivo con el nombre in.txt, el cual tiene la fun
 ![Captura de pantalla 2022-05-15 153321](https://user-images.githubusercontent.com/101950765/168492185-967d8b69-7779-42df-bab4-68f62cbd45cb.png)
 
 ### paso 4:
-Copiar el contenido del archivo 
-#### postGradoCampusDijkstra.cpp, 
-y pegarlo en un nuevo archivo ".cpp" de VScode, a coninuacion guardar el archivo en la carpeta designada.
+Copiar el contenido del archivo "postGradoCampusDijkstra.cpp", y pegarlo en un nuevo archivo ".cpp" de VScode, a coninuacion guardar el archivo en la carpeta designada.
 una vez tenga listo su input deseado, presione el boton de "Play" en el programa. 
 
 ![Captura de pantalla 2022-05-15 153731](https://user-images.githubusercontent.com/101950765/168492321-c1247159-8172-48fc-becc-32e0c6a30aa9.png)
@@ -93,7 +91,10 @@ En la seccion de abajo aparecera una barra de terminal, seleccione la opción "O
 Dirijase al codigo, y busque la linea 6, encontrara unos valores con las conexiones entre los puntos propuestos (por ejemplo PostGradoCalleCato), los cuales estan con valor 0 por defecto.
 #### cambie los valores de los puntos a su gusto, de ser necesario, vea la tabla de referencia.
 ###### *recomendamos no dejar ningun valor en 0.
+
 ![Captura de pantalla 2022-05-15 154612](https://user-images.githubusercontent.com/101950765/168492504-f7f16fcf-ee10-468d-a1a9-ad0be44de42c.png)
 
 
 ## Conclusión
+
+Con este algoritmo logramos demostrar en varias situaciones, el camino mas rapido hacia el campus, desde cerrar algunas calles
