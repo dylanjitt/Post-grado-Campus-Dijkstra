@@ -2,7 +2,8 @@
 ###### By EquipoDinamita!!!
 Bienvenido a este repositorio!! creado con el objetivo de encontrar el camino mas rapido desde el postrgado de la UPB en obrajes, hasta el campus ubicado en achocalla.
 
-![Captura de pantalla 2022-05-15 141254](https://user-images.githubusercontent.com/101950765/168487840-f8a05ceb-5982-4677-aea6-1294d77fc1b1.png)
+![Screenshot_20220515-151021_Picsart](https://user-images.githubusercontent.com/101950765/168493039-f5d08718-d03e-46e0-be60-961fdcb850cd.jpg)
+
 
 ## Definición del problema
 
