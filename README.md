@@ -97,4 +97,9 @@ Dirijase al codigo, y busque la linea 6, encontrara unos valores con las conexio
 
 ## Conclusión
 
-Con este algoritmo logramos demostrar en varias situaciones, el camino mas rapido hacia el campus, desde cerrar algunas calles
+Con este algoritmo logramos demostrar en varias situaciones, el camino mas rapido hacia el campus, atravesando por distintos factores: desde el bloqueo de algunas calles (tales como la costanerita), una trancadera en un punto tan estrategico como la 17 de obrajes, e incluso una situacion tan comun como las trancaderas en hora pico.
+
+Ademas logramos implementar un sistema para que cada usuario pueda crear sus situaciones personalizadas, ya que, en ciertas ocasiones, hay factores externos que pueden cambiar el tiempo de viaje de un punto a otro, y asi, el usuario pueda probar en distintas situaciones a su gusto, y pueda tomar sus previsiones.
+
+
+## Muchas gracias!!
