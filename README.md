@@ -41,9 +41,9 @@ Para entender mejor el sistema empleado en nuestra matriz, aqui les dejamos unos
   
   #### 5: calle 17 de obrajes
   
-  #### 6: Interseccion Costanera
+  #### 6: Intersección Costanera
   
-  #### 7: Plaza Hubmoldt
+  #### 7: Plaza Humboldt
   
   #### 8: Rotonda / Puente amor de Dios
   
