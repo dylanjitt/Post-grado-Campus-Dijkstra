@@ -17,9 +17,9 @@ Presentamos "Post Grado-Campus Dijkstra", un algoritmo que se encarga de analiza
 Este sistema utiliza el algoritmo dijkstra, el cual fue diseñado con el objetivo de encontrar el camino mas corto entre varios nodos, partiendo de uno en especifico, y llegando a un nodo final, recorriendo todas las posibilidades, hasta dar con las opciones mas cortas, o con menor costo o "peso".
 El algoritmo Dijkstra puede ser representado generalmente en dos sistemas:
 
--la lista de listas
+#### -la lista de listas
 
--la matriz
+#### -la matriz
 
 Para este programa utilizaremos el sistema de matrices, en el que, cada casilla coincide con dos nodos, a la cual se le asigna un valor con numeros enteros (int), por lo que, si un punto "A" no esta conectado al punto "B", su valor será 0, y tambien en el caso de que el punto coincida consigo mismo. Se deben insertar valores en las casillas que tengan nodos conectados con otros.
 
