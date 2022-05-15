@@ -28,25 +28,25 @@ Adaptamos este algoritmo en funcion del siguiente mapa:
 
 Para entender mejor el sistema empleado en nuestra matriz, aqui les dejamos unos puntos de referencia en base al numero asignado para cada nodo:
 
-  0: Post Grado
+  #### 0: Post Grado
   
-  1: Av. 14 de septiembre (la calle de la universida Catolica)
+  #### 1: Av. 14 de septiembre (la calle de la universida Catolica)
   
-  2: Av. Hernando Siles
+  #### 2: Av. Hernando Siles
   
-  3: Av. Hector Ormachea
+  #### 3: Av. Hector Ormachea
   
-  4: calle Costanerita
+  #### 4: calle Costanerita
   
-  5: calle 17 de obrajes
+  #### 5: calle 17 de obrajes
   
-  6: Interseccion Costanera
+  #### 6: Interseccion Costanera
   
-  7: Plaza Hubmoldt
+  #### 7: Plaza Hubmoldt
   
-  8: Rotonda / Puente amor de Dios
+  #### 8: Rotonda / Puente amor de Dios
   
-  9: Universidad Pirvada Boliviana (UPB)
+  #### 9: Universidad Pirvada Boliviana (UPB)
   
 
 ## Proceso de instalación
