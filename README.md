@@ -69,17 +69,31 @@ recuerde crear una carpeta especifica para este proyecto, luego, agreguela en el
 A continuacion, debe crear un archivo con el nombre in.txt, el cual tiene la funcion de añadir los comandos necesarios (en forma de numeros enteros) para que el programa lea los datos ingresados, y realize las acciones de su preferencia.
 #### IMPORTANTE: recuerde guardar el archivo (Ctrl + s) cada vez que haga algun cambio en los datos a ingresar.
 
+![Captura de pantalla 2022-05-15 153200](https://user-images.githubusercontent.com/101950765/168492182-51d3cd9f-c1a9-467b-a1eb-93c3aa6d9282.png)
 
+![Captura de pantalla 2022-05-15 153321](https://user-images.githubusercontent.com/101950765/168492185-967d8b69-7779-42df-bab4-68f62cbd45cb.png)
 
 ### paso 4:
-Copiar el contenido del archivo postGradoCampusDijkstra.cpp, y pegarlo en un nuevo archivo ".cpp" de VScode, a coninuacion guardar el archivo en la carpeta designada.
+Copiar el contenido del archivo 
+#### postGradoCampusDijkstra.cpp, 
+y pegarlo en un nuevo archivo ".cpp" de VScode, a coninuacion guardar el archivo en la carpeta designada.
 una vez tenga listo su input deseado, presione el boton de "Play" en el programa. 
+
+![Captura de pantalla 2022-05-15 153731](https://user-images.githubusercontent.com/101950765/168492321-c1247159-8172-48fc-becc-32e0c6a30aa9.png)
+![Captura de pantalla 2022-05-15 153848](https://user-images.githubusercontent.com/101950765/168492325-7766f93e-7773-482b-9fc1-174a75a78b6f.png)
+![Captura de pantalla 2022-05-15 153910](https://user-images.githubusercontent.com/101950765/168492333-ca9c9fe0-b7b3-4a11-af9b-e22c3cba9b7a.png)
+![Captura de pantalla 2022-05-15 162012](https://user-images.githubusercontent.com/101950765/168492338-40130fdb-b2ce-44a3-9137-de530bd82327.png)
+
 En la seccion de abajo aparecera una barra de terminal, seleccione la opción "OUTPUT", encontrara la interfaz con todas las opciones propuestas, seleccione la que usted elija insertando su numero en el archivo "int.txt", para insertar mas de una opción, presiones enter y el nuevo numero cada vez que necesite.
+
+![Captura de pantalla 2022-05-15 154510](https://user-images.githubusercontent.com/101950765/168492444-bb38addc-0e65-4021-9158-7e6527e14bcf.png)
 
 
 ### paso 5 (para "crea tu propio ejemplo"):
 Dirijase al codigo, y busque la linea 6, encontrara unos valores con las conexiones entre los puntos propuestos (por ejemplo PostGradoCalleCato), los cuales estan con valor 0 por defecto.
 #### cambie los valores de los puntos a su gusto, de ser necesario, vea la tabla de referencia.
 ###### *recomendamos no dejar ningun valor en 0.
+![Captura de pantalla 2022-05-15 154612](https://user-images.githubusercontent.com/101950765/168492504-f7f16fcf-ee10-468d-a1a9-ad0be44de42c.png)
+
 
 ## Conclusión
