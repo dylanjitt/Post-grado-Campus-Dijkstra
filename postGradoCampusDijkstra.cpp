@@ -176,7 +176,7 @@ void salir() {
 
 int main() {
     input;
-    output;
+    //output;
     int option; 
     cin>>option;
     printMenu();
