@@ -1,6 +1,7 @@
 # Post-grado-Campus-Dijkstra
 ###### By EquipoDinamita!!!
 Bienvenido a este repositorio!! creado con el objetivo de encontrar el camino mas rapido desde el postrgado de la UPB en obrajes, hasta el campus ubicado en achocalla.
+
 ![Captura de pantalla 2022-05-15 141254](https://user-images.githubusercontent.com/101950765/168487840-f8a05ceb-5982-4677-aea6-1294d77fc1b1.png)
 
 ## Definición del problema
@@ -8,6 +9,7 @@ Bienvenido a este repositorio!! creado con el objetivo de encontrar el camino ma
 Eres estudiante de la UPB, y te asignaron pasar materias en Post grado y en el Campus a la vez???, y necesitas llegar al campus desde obrajes de la manera mas rapida posible?? No te preocupes!!! nosotros tenemos la Solución.
 
 Presentamos "Post Grado-Campus Dijkstra", un algoritmo que se encarga de analizar y hallar el tiempo mas corto para llegar a la universidad a tiempo, e incluso, tambien funciona para otros puntos cercanos, desde la calle de la cato, hasta la plaza humboldt (la plaza favorita de los de la UPB).
+
 ![Captura de pantalla 2022-05-15 141335](https://user-images.githubusercontent.com/101950765/168487841-109d3211-e0e0-4049-818f-0d4c018ec47d.png)
 
 ## Explicación del algoritmo
@@ -18,7 +20,7 @@ El algoritmo Dijkstra puede ser representado generalmente en dos sistemas:
 
 -la matriz
 
-para este programa utilizaremos el sistema de matrices, en el que, cada casilla coincide con dos nodos, a la cual se le asigna un valor con numeros enteros (int), por lo que, si un punto "A" no esta conectado al punto "B", su valor será 0, y tambien en el caso de que el punto coincida consigo mismo. Se deben insertar valores en las casillas que tengan nodos conectados con otros.
+Para este programa utilizaremos el sistema de matrices, en el que, cada casilla coincide con dos nodos, a la cual se le asigna un valor con numeros enteros (int), por lo que, si un punto "A" no esta conectado al punto "B", su valor será 0, y tambien en el caso de que el punto coincida consigo mismo. Se deben insertar valores en las casillas que tengan nodos conectados con otros.
 
 Adaptamos este algoritmo en funcion del siguiente mapa:
 
@@ -58,10 +60,16 @@ Asegurese de que su editor de codigo ejecute las instrucciones en el lenguaje "c
 ### paso 3:
 recuerde crear una carpeta especifica para este proyecto, luego, agreguela en el directorio de VScode:
 
-//insertar imagen de add folder.
+![Captura de pantalla 2022-05-15 152617](https://user-images.githubusercontent.com/101950765/168491897-335a6757-9337-4db5-adbf-007eabdb674b.png)
+
+![Captura de pantalla 2022-05-15 152929](https://user-images.githubusercontent.com/101950765/168491912-e2abcc64-614a-4022-bf22-dc624877aa8d.png)
+
+![Captura de pantalla 2022-05-15 152957](https://user-images.githubusercontent.com/101950765/168491914-45fb06b6-8ce9-4a42-80ba-fa08d7e11a59.png)
 
 A continuacion, debe crear un archivo con el nombre in.txt, el cual tiene la funcion de añadir los comandos necesarios (en forma de numeros enteros) para que el programa lea los datos ingresados, y realize las acciones de su preferencia.
 #### IMPORTANTE: recuerde guardar el archivo (Ctrl + s) cada vez que haga algun cambio en los datos a ingresar.
+
+
 
 ### paso 4:
 Copiar el contenido del archivo postGradoCampusDijkstra.cpp, y pegarlo en un nuevo archivo ".cpp" de VScode, a coninuacion guardar el archivo en la carpeta designada.
