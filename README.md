@@ -25,7 +25,7 @@ Para este programa utilizaremos el sistema de matrices, en el que cada casilla c
 
 Adaptamos este algoritmo en funcion del siguiente mapa:
 
-//insert mapa nodos
+![Screenshot_20220516-034027_Samsung Notes](https://user-images.githubusercontent.com/101950765/168543741-09d36550-524c-4555-97ec-ffc545249b07.jpg)
 
 Para entender mejor el sistema empleado en nuestra matriz, aqui les dejamos unos puntos de referencia en base al numero asignado para cada nodo:
 
